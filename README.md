@@ -8,7 +8,9 @@ Reproductor multimedia simple desarrollado en C# con Windows Forms. Permite repr
 
 ## Último commit
 
-18/Octubre/2022
+```
+Fecha: 18/Octubre/2022
+```
 
 ## Estructura del proyecto
 
